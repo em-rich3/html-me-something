@@ -1,0 +1,62 @@
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+}
+
+#title {
+    background-image: url("images/background.jpg");
+}
+
+h1 {
+    text-align: center;
+    font-size: 225%;
+    opacity: 80%;
+    padding: 20px;
+}
+
+.lyndee {
+    background-color: lightgoldenrodyellow;
+}
+
+.bo {
+    background-color:papayawhip;
+}
+
+.taco {
+    background-color: rgb(234, 253, 234);
+}
+
+.copper {
+    background-color: rgb(247, 207, 207);
+}
+
+.autumn {
+    background-color: rgb(252, 216, 252);
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 175%;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+img {
+    border: 5px dotted violet;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 80%;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
