@@ -2,7 +2,8 @@
 body {
     background-color: whitesmoke;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin: 30px;
+    margin: 0px;
+    width: 100%;
 }
 
 #title {
@@ -14,6 +15,23 @@ h1 {
     font-size: 225%;
     opacity: 80%;
     padding: 20px;
+}
+
+h2 {
+    margin: 20px;
+    text-align: center;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+    margin-right: 20px;
+    
+    
 }
 
 .lyndee {
@@ -39,9 +57,9 @@ h1 {
 h3 {
     text-decoration: underline;
     font-size: 175%;
-    text-align: center;
-    padding: 10px;
-    margin: 0px;
+    text-align: left;
+    padding-top: 10px;
+    margin: 20px;
 }
 
 p {
@@ -52,6 +70,7 @@ p {
 
 img {
     border: 5px dotted violet;
+    
 }
 
 figcaption {
